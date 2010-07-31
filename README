@@ -1,0 +1,14 @@
+Dojox Diagramming Tool
+
+Dojox Diagramming Tool is a cross-browser AJAX drawing and diagramming tool. It was developed based on Dojox.gfx, Dojox.sketch, Dijit and other utility components from Dojo Javascript library with the latest version 1.2.0 and J2EE as backend server. It's one component of visualization technologies for web-based viewing,navigation, and authoring of CxDA and Constellation Program and Project data.
+
+The tool uses the vector graphics functionality that is a native capability in modern browsers. For the first part, DojoX javascript library was used as the base, an extensions library was developed to provide the capability to create drawing elements, edit and modify, copy and move, delete, persist and retrieve graphs. For the second part, the Dojo javascript library, the extensions library, and AJAX programming were used to create a basic scientific/engineering diagramming application that operates on diffrent web browsers, including Firefox, Internet Explore, Safari, Google Chrome and Camino.
+
+Here's the test URL:
+http://www.intrinsyx.com/sharon/MyEditor/test.html
+
+All the basic features are available, except server-relatd AJAX features, such as 'save','open','image', as the web host doesn't support jsp. A recorded video is available to show server-related features( upload an image, save the current diagram to a svg file, open a svg file). Here's the video page:
+http://www.intrinsyx.com/sharon/Demo_image.htm
+
+Another video to show the shape drawing, editing from toolbar: http://www.intrinsyx.com/sharon/demo.swf
+
